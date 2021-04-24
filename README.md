@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, My name is Kaih White and I am a student at the Colorado School of Mines
+### I am currently learning about algorithms, and advanced topics like Machine Learning and Deep Machine Learning
+### I eagerly want more practice working on real world applications with a team, if you need a new collaborator, feel free to reach out to me
+### Please email me at kaihgwhite@outlook.com with any opportunities regarding software development
 
 <!--
 **KaihWhite/KaihWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
 ### Hello, My name is Kaih White and I am currently studying Computer Science.
-### I am learning about algorithms, Machine Learning, and Deep Learning
 ### I eagerly want more practice working on real world applications with a team
 ### Please email me at kaihgwhite@outlook.com with any opportunities regarding software development
 ### https://kaihwhite.com/
